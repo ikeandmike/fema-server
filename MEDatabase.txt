@@ -1,0 +1,20 @@
+ID Number First Name           Last Name                 Gender Location                      
+777777777 four                 Aces                      F   winning_poker_hand            
+999999994 pairof               aces                      F   losing_Hand                   
+000000008 Tom                  B                         M   gillette_stadiuM              
+510510510 tom                  b                         M   very_very_very-very_very_long_
+444444443 Tom                  Br                        F   worcester                     
+987654321 Tom                  Brady                     M   Worcester                     
+000000007 fred                 flintstone                M   8_bedrock                     
+444333444 straight             flush                     F   winning_poker_hand            
+100000009 The                  Gronk                     M   worcester                     
+101010101 barny                rubble                    M   7_bedrock                     
+543219876 John                 Smith                     M   bourbon_street                
+555555552 john                 sMith                     M   blues_alley_gutter            
+666666666 UNK                  UNK                       F   gillette_stadium              
+444444441 UNK                  UNK                       F   Bourbon_streeT                
+444444442 UNK                  UNK                       M   worcester                     
+444444444 UNK                  UNK                       M   Bourbon_streeT                
+888888881 UNK                  UNK                       F   8_bedrock                     
+999999990 the-funk             UNK                       F   grooving-boulevard            
+123456789 UNK                  UNK                       F   worCester                     
